@@ -1,0 +1,24 @@
+.Navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #222;
+    padding: 1em;
+}
+.Navbar ul{
+    display: flex;
+    align-items: center;
+    padding: 1em;
+}
+.Navbar ul li{
+    list-style: none;
+}
+.Navbar ul li a{
+    text-decoration: none;
+    color: #FFF;
+    margin-right: 1em;
+}
+.Navbar ul li a:hover{
+    color: #FFBB33;
+    transition: .3s all ;
+}
