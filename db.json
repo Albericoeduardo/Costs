@@ -4,8 +4,8 @@
       "name": "Projeto teste 1",
       "budget": "5000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 0,
       "services": [],
@@ -13,7 +13,7 @@
     },
     {
       "name": "Projeto teste 2",
-      "budget": "5001",
+      "budget": "5002",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -24,10 +24,10 @@
     },
     {
       "name": "Projeto teste 3",
-      "budget": "5002",
+      "budget": "5003",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "3",
+        "name": "Desing"
       },
       "cost": 0,
       "services": [],
